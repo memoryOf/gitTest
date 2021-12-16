@@ -2,3 +2,4 @@ Vibra:Area
 1、Nigeria 66666
 2、Ghana
 3、Jepan
+4、China
